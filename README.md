@@ -1,5 +1,8 @@
 # Convertidor
+hola amigos en este proyecto utilizo logica de negocio en el archivo ts, en el cual utilizo la declaración switch como estructura de control para realizar la lógica de negocio
+para hacer las conversiones de moneda. Para este proyecto utilizo bootstrap para los estilos en lso componentes.  
 
+Puedes ver este proyecto en producción en mi Netlify: https://sebastianvergara-convertidor.netlify.app/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
